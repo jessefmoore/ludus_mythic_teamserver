@@ -3,8 +3,7 @@
 An Ansible role that installs and spins up a Mythic Teamserver on a Debian or Ubuntu server. The role automatically installs a couple of Mythic agents but feel free to fork to add for your own use.
 
 ## Dependencies
-
-None.
+- Add the Ludus Ansible Galaxy Role. ```ludus ansible role add 0xRedpoll.ludus_mythic_teamserver```
 
 ## Example Playbook
 
